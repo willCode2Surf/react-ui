@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-ui",
+  "version": "0.0.1",
+  "homepage": "https://github.com/willCode2Surf/reactjs-ui",
+  "authors": [
+    "Dustin Brown (@willcode2surf) (http://github.com/willcode2surf)"
+  ],
+  "description": "ReactJS UI Components",
+  "main": [
+    "dist/reactjs-ui.js",
+    "dist/reactjs-ui.css"
+  ],
+  "keywords": [
+    "ReactJS UI Components",
+    "ReactJS"
+  ],
+  "ignore": ["example"],
+  "license": "MIT"
+}

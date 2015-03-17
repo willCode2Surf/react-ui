@@ -1,0 +1,46 @@
+{
+  "name": "reactjs-ui",
+  "version": "0.0.1",
+  "author": {
+    "name": "Dustin Brown (@willcode2surf)",
+    "email": "dustin.w.brown@gmail.com",
+    "url": "http://www.github.com/willCode2Surf"
+  },
+  "homepage": "https://github.com/willCode2Surf/reactjs-ui",
+  "bugs": "https://github.com/willCode2Surf/reactjs-ui/issues",
+  "keywords": [
+    "reactjs",
+    "examples",
+    "react"
+  ],
+  "description": "Simple ReactJS UI Components",
+  "license": "MIT",
+  "contributors": [
+    "willCode2Surf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willCode2Surf/reactjs-ui.git"
+  },
+  "dependencies": {
+    "gulp-git": "^1.0.0",
+    "gulp-react": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.5.2",
+    "gulp-html-replace": "^1.4.4",
+    "gulp-jshint": "^1.8.4",
+    "gulp-karma": "0.0.4",
+    "gulp-react": "^2.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-rimraf": "^0.1.0",
+    "gulp-uglify": "^0.3.2",
+    "jshint-stylish": "^0.4.0",
+    "karma": "^0.12.22"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
