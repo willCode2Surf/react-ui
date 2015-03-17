@@ -14,7 +14,7 @@ Parts of this repo may or may not be something you can use in production.  As of
 
 This repo makes use of gulp to concat, lint, and built a minified version.  The gulp command will do a few things if you do not provide a command line variable.  For constant/develop efforts it is recommended to run 
 
-gulp dev
+* gulp dev
 
 # road map
 Some things to expect if using or reviewing this repo.
